@@ -1,7 +1,5 @@
 DHTClient
 =========
-
-This is a DHTClient that can construct PING, GETSUCCESSOR, PUT, and GET messages to send to peers, and receive their responses. 
 Usage:
 
 javac DHTClient.java
